@@ -35,7 +35,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/agatk/Downloads/LGoodDatePicker-11.2.1-executable-demo.jar"/>
-	<classpathentry kind="lib" path="C:/Users/agatk/Downloads/jcalendar-1.4.jar/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/agatk/eclipse-workspace/StockExchange/lib/jcalendar-1.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
