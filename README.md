@@ -9,6 +9,7 @@ To view the chosen cryptocurrency rate:
 * Choose the time period using calendars: start date and end date
 * Enter the name of the chosen cryptocurrency (eg. BTC)
 * Click on "Calculate" button  
+
 To see the expected rate of the cryptocurrency for the next four weeks:
 * Enter the name of the chosen cryptocurrency (eg. BTC)
 * Click on "Show" button
