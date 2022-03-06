@@ -7,11 +7,11 @@ It can also calculate the expected rate for the following four weeks, comparing 
 To clone and run this application, you'll need JDK installed on your computer.  
 To view the chosen cryptocurrency rate:
 * Choose the time period using calendars: start date and end date
-* Enter the name of the chosen cryptocurrency (eg. BTC)
+* Enter the name of the chosen cryptocurrency (e.g. BTC)
 * Click on "Calculate" button  
 
 To see the expected rate of the cryptocurrency for the next four weeks:
-* Enter the name of the chosen cryptocurrency (eg. BTC)
+* Enter the name of the chosen cryptocurrency (e.g. BTC)
 * Click on "Show" button
 ## Technologies
 * Java 15
