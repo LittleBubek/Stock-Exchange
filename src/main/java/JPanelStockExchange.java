@@ -18,7 +18,6 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextField;
 
-import com.github.lgooddatepicker.components.TimePicker;
 import com.toedter.calendar.JCalendar;
 
 public class JPanelStockExchange extends JPanel {
