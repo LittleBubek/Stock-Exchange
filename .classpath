@@ -35,6 +35,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/agatk/eclipse-workspace/StockExchange/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
