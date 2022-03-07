@@ -1,8 +1,12 @@
 # Stock-Exchange
 This program allows you to view the chosen cryptocurrency rate in the selected time period.  
 It can also calculate the expected rate for the following four weeks, comparing the rate chart from the last four months to the rate chart from the last five years.  
+The program connects to https://docs.zonda.exchange website and downloads data about the cryptocurrencies' rates form there in the JSON format. Then it reads the neccesary information from JSON and displays the results.
+
 ![Displaying the cryptocurrency rate](./images/CurrenciesRates.jpg)  
+
 ![Expected rates](./images/ExpectedRates.jpg)  
+
 ## How to use
 To clone and run this application, you'll need JDK installed on your computer.  
 To view the chosen cryptocurrency rate:
